@@ -1,9 +1,9 @@
 @echo off
-title NETWORK ANALYZER - @thecyberanas
+title NETWORK ANALYZER - @zerodaysecurenet
 color 0a
 cls
 echo ==================================================
-echo           SYSTEM ANALYSIS BY THECYBERANAS
+echo           SYSTEM ANALYSIS BY ZERODAYSECURENET
 echo ==================================================
 echo.
 echo [+] ANALISI IP LOCALE...
@@ -15,7 +15,7 @@ echo.
 echo [+] INFO SCHEDA DI RETE...
 getmac
 echo.
-echo ==================================================
-echo Scarica altri script su: github.com/thecyberanas
-echo ==================================================
+echo ======================================================
+echo Scarica altri script su: github.com/zerodaysecurenet
+echo ======================================================
 pause
